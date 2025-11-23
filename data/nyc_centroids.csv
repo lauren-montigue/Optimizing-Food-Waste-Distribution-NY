@@ -1,0 +1,263 @@
+"","NTAName","BoroName","latitude","longitude"
+"1","Greenpoint","Brooklyn",40.7294994964572,-73.9495163341347
+"2","Williamsburg","Brooklyn",40.7149141264938,-73.9586210725027
+"3","South Williamsburg","Brooklyn",40.7032420441115,-73.9566587310061
+"4","East Williamsburg","Brooklyn",40.7132993867329,-73.9364879093139
+"5","Brooklyn Heights","Brooklyn",40.6954653662343,-73.9948301653051
+"6","Downtown Brooklyn-DUMBO-Boerum Hill","Brooklyn",40.6948994402712,-73.9858303929075
+"7","Fort Greene","Brooklyn",40.6911691737103,-73.9743613956643
+"8","Clinton Hill","Brooklyn",40.6889983854651,-73.964462224414
+"9","Brooklyn Navy Yard","Brooklyn",40.7012635250591,-73.971661452135
+"10","Bedford-Stuyvesant (West)","Brooklyn",40.688956478273,-73.9510016798219
+"11","Bedford-Stuyvesant (East)","Brooklyn",40.6866210828866,-73.9317917854828
+"12","Bushwick (West)","Brooklyn",40.7009960653414,-73.9252708495532
+"13","Bushwick (East)","Brooklyn",40.691244727072,-73.9129656513987
+"14","The Evergreens Cemetery","Brooklyn",40.6843873156279,-73.9012739959107
+"15","Cypress Hills","Brooklyn",40.6825347477901,-73.882060451899
+"16","East New York (North)","Brooklyn",40.6724847883007,-73.8894838645919
+"17","East New York-New Lots","Brooklyn",40.6597276488926,-73.8880459326897
+"18","Spring Creek-Starrett City","Brooklyn",40.6510067713044,-73.876392080607
+"19","East New York-City Line","Brooklyn",40.6705400731211,-73.8660977871788
+"20","Highland Park-Cypress Hills Cemeteries (South)","Brooklyn",40.6894949425744,-73.8777025861766
+"21","Carroll Gardens-Cobble Hill-Gowanus-Red Hook","Brooklyn",40.6781219329483,-74.0000654778157
+"22","Park Slope","Brooklyn",40.6718311478842,-73.9797597742353
+"23","Windsor Terrace-South Slope","Brooklyn",40.6560443207945,-73.9800245106635
+"24","Sunset Park (West)","Brooklyn",40.6534704184105,-74.0101154917242
+"25","Sunset Park (Central)","Brooklyn",40.6423895806221,-74.0078801704953
+"26","Green-Wood Cemetery","Brooklyn",40.65213723303,-73.9902369279482
+"27","Prospect Heights","Brooklyn",40.6776044785716,-73.9675721267506
+"28","Crown Heights (North)","Brooklyn",40.6738643163592,-73.9418960347673
+"29","Lincoln Terrace Park","Brooklyn",40.6668609734674,-73.9268158220258
+"30","Crown Heights (South)","Brooklyn",40.6667463150022,-73.9460096727354
+"31","Prospect Lefferts Gardens-Wingate","Brooklyn",40.6597573321609,-73.9479613983592
+"32","Bay Ridge","Brooklyn",40.6266710335789,-74.0299274281346
+"33","Dyker Heights","Brooklyn",40.6239630267462,-74.0108451349025
+"34","Fort Hamilton","Brooklyn",40.6081534310775,-74.0277490865374
+"35","Dyker Beach Park","Brooklyn",40.6111517227037,-74.0189332556401
+"36","Bensonhurst","Brooklyn",40.6132646633001,-73.9932652437654
+"37","Bath Beach","Brooklyn",40.6042601341972,-74.007482389178
+"38","Gravesend (West)","Brooklyn",40.5992924201748,-73.9857335418968
+"39","Sunset Park (East)-Borough Park (West)","Brooklyn",40.6408268494459,-73.9993878995325
+"40","Borough Park","Brooklyn",40.6329355183579,-73.9895450043031
+"41","Kensington","Brooklyn",40.641135618203,-73.9760514727244
+"42","Mapleton-Midwood (West)","Brooklyn",40.6193183655866,-73.9733181937168
+"43","Gravesend (South)","Brooklyn",40.5879783244015,-73.9779598567884
+"44","Coney Island-Sea Gate","Brooklyn",40.5769657956353,-73.9879660549386
+"45","Brighton Beach","Brooklyn",40.5790755302042,-73.9606938829492
+"46","Calvert Vaux Park","Brooklyn",40.5843532727745,-73.9940863708408
+"47","Flatbush","Brooklyn",40.6406660884126,-73.956388370061
+"48","Flatbush (West)-Ditmas Park-Parkville","Brooklyn",40.636526244973,-73.966189888673
+"49","Midwood","Brooklyn",40.6203690262529,-73.9555929187207
+"50","Gravesend (East)-Homecrest","Brooklyn",40.5990817706496,-73.965869221362
+"51","Madison","Brooklyn",40.6049134623952,-73.948135619547
+"52","Sheepshead Bay-Manhattan Beach-Gerritsen Beach","Brooklyn",40.5882982104331,-73.941504485568
+"53","Ocean Hill","Brooklyn",40.676637284518,-73.9136475412408
+"54","Brownsville","Brooklyn",40.6640469817622,-73.9095224451755
+"55","East Flatbush-Erasmus","Brooklyn",40.6485510274498,-73.9501384692722
+"56","East Flatbush-Farragut","Brooklyn",40.63914623403,-73.9376369689025
+"57","East Flatbush-Rugby","Brooklyn",40.6515465307613,-73.9297522824317
+"58","East Flatbush-Remsen Village","Brooklyn",40.6562159217085,-73.9191689654714
+"59","Holy Cross Cemetery","Brooklyn",40.6469806413225,-73.9382530612022
+"60","Flatlands","Brooklyn",40.6262745608266,-73.9300973230259
+"61","Marine Park-Mill Basin-Bergen Beach","Brooklyn",40.6149755403108,-73.9185372657852
+"62","Canarsie","Brooklyn",40.6393528756872,-73.9014615555511
+"63","Marine Park-Plumb Island","Brooklyn",40.5940466094966,-73.9162439729036
+"64","McGuire Fields","Brooklyn",40.6123802125944,-73.8969581634015
+"65","Canarsie Park & Pier","Brooklyn",40.6300328592583,-73.8893085138873
+"66","Prospect Park","Brooklyn",40.6616014764439,-73.9689207542036
+"67","Barren Island-Floyd Bennett Field","Brooklyn",40.5931913450418,-73.8918499010626
+"68","Jamaica Bay (West)","Brooklyn",40.6102389407348,-73.8595117662708
+"69","Shirley Chisholm State Park","Brooklyn",40.6453251080308,-73.8667413869852
+"70","Mott Haven-Port Morris","Bronx",40.8075245883903,-73.9172426168765
+"71","Melrose","Bronx",40.8182596150352,-73.9128500445639
+"72","Hunts Point","Bronx",40.8108598149718,-73.884976653682
+"73","Longwood","Bronx",40.8209678853406,-73.896559355848
+"74","North & South Brother Islands","Bronx",40.7995763844918,-73.8983697972992
+"75","Morrisania","Bronx",40.8272945220353,-73.9047421514982
+"76","Claremont Village-Claremont (East)","Bronx",40.8375764049514,-73.903535636795
+"77","Crotona Park East","Bronx",40.8321385970731,-73.8886973522754
+"78","Crotona Park","Bronx",40.8385494331891,-73.8949867929946
+"79","Concourse-Concourse Village","Bronx",40.8267474409239,-73.92172488702
+"80","Highbridge","Bronx",40.8368573350242,-73.9277629047815
+"81","Mount Eden-Claremont (West)","Bronx",40.8404797855404,-73.914428258047
+"82","Yankee Stadium-Macombs Dam Park","Bronx",40.8299826398818,-73.9263903189237
+"83","Claremont Park","Bronx",40.8404309685131,-73.9075041474538
+"84","University Heights (South)-Morris Heights","Bronx",40.8518528302641,-73.9161245451486
+"85","Mount Hope","Bronx",40.8498649509831,-73.9044158969307
+"86","Fordham Heights","Bronx",40.8587331124173,-73.89912820958
+"87","West Farms","Bronx",40.8412594963127,-73.8786282058608
+"88","Tremont","Bronx",40.8469225669596,-73.8917546701969
+"89","Belmont","Bronx",40.8576069046275,-73.8870526559433
+"90","University Heights (North)-Fordham","Bronx",40.8645727330387,-73.9047498738412
+"91","Bedford Park","Bronx",40.8735627015254,-73.8907906039346
+"92","Norwood","Bronx",40.8771406903505,-73.8790190426162
+"93","Kingsbridge Heights-Van Cortlandt Village","Bronx",40.8776798847113,-73.899082444416
+"94","Kingsbridge-Marble Hill","Bronx",40.8808396645259,-73.905730051521
+"95","Riverdale-Spuyten Duyvil","Bronx",40.8957161288225,-73.9087862107653
+"96","Soundview-Bruckner-Bronx River","Bronx",40.8296146841857,-73.8732180923705
+"97","Soundview-Clason Point","Bronx",40.8161059497451,-73.8591033218479
+"98","Castle Hill-Unionport","Bronx",40.8245317522871,-73.8486911814741
+"99","Parkchester","Bronx",40.8377464210291,-73.8579888560159
+"100","Soundview Park","Bronx",40.8164383034181,-73.8712502495145
+"101","Westchester Square","Bronx",40.8376858206167,-73.8459395515987
+"102","Throgs Neck-Schuylerville","Bronx",40.8255267804587,-73.8206015860668
+"103","Pelham Bay-Country Club-City Island","Bronx",40.8455920651512,-73.8115381635582
+"104","Co-op City","Bronx",40.8723122180107,-73.8262727713433
+"105","Hart Island","Bronx",40.8538340315242,-73.7702321624131
+"106","Ferry Point Park-St. Raymond Cemetery","Bronx",40.8166226242258,-73.8325838448782
+"107","Pelham Parkway-Van Nest","Bronx",40.8478969363134,-73.8649669980511
+"108","Morris Park","Bronx",40.8517924766075,-73.8516873460979
+"109","Pelham Gardens","Bronx",40.864246612611,-73.8466921282452
+"110","Allerton","Bronx",40.8640144652008,-73.8642037714206
+"111","Hutchinson Metro Center","Bronx",40.8494759526074,-73.8387159310177
+"112","Williamsbridge-Olinville","Bronx",40.8810163001502,-73.8607245005124
+"113","Eastchester-Edenwald-Baychester","Bronx",40.8815414695664,-73.8365698308339
+"114","Wakefield-Woodlawn","Bronx",40.8979732117286,-73.8539663924204
+"115","Woodlawn Cemetery","Bronx",40.8895371912556,-73.8725817921507
+"116","Van Cortlandt Park","Bronx",40.8970450218374,-73.8866314583879
+"117","Bronx Park","Bronx",40.8578319116347,-73.87549840494
+"118","Pelham Bay Park","Bronx",40.8682457509724,-73.8078773813879
+"119","Financial District-Battery Park City","Manhattan",40.7080799624981,-74.0102239715986
+"120","Tribeca-Civic Center","Manhattan",40.7173062155851,-74.0072329649701
+"121","The Battery-Governors Island-Ellis Island-Liberty Island","Manhattan",40.6912434566919,-74.0207316326719
+"122","SoHo-Little Italy-Hudson Square","Manhattan",40.7235357410824,-74.0017186405533
+"123","Greenwich Village","Manhattan",40.730680703297,-73.9956844541814
+"124","West Village","Manhattan",40.7348094757509,-74.0058927329764
+"125","Chinatown-Two Bridges","Manhattan",40.7128584060622,-73.9936634036461
+"126","Lower East Side","Manhattan",40.716956216473,-73.9838370361887
+"127","East Village","Manhattan",40.7259600822759,-73.9820906973837
+"128","Chelsea-Hudson Yards","Manhattan",40.7493826565518,-74.001149229864
+"129","Hell's Kitchen","Manhattan",40.7641687886625,-73.9923999200423
+"130","Midtown South-Flatiron-Union Square","Manhattan",40.7440415978371,-73.9897515468706
+"131","Midtown-Times Square","Manhattan",40.7578010704439,-73.9816095103917
+"132","Stuyvesant Town-Peter Cooper Village","Manhattan",40.7318140393425,-73.9765819192108
+"133","Gramercy","Manhattan",40.7368244955513,-73.9840536156153
+"134","Murray Hill-Kips Bay","Manhattan",40.7442493534397,-73.9759478336392
+"135","East Midtown-Turtle Bay","Manhattan",40.7561333497458,-73.968503490545
+"136","United Nations","Manhattan",40.7503456833201,-73.9673188282006
+"137","Upper West Side-Lincoln Square","Manhattan",40.774847564824,-73.9846945357128
+"138","Upper West Side (Central)","Manhattan",40.7877030804216,-73.9759342536763
+"139","Upper West Side-Manhattan Valley","Manhattan",40.7992466529237,-73.9673061883371
+"140","Upper East Side-Lenox Hill-Roosevelt Island","Manhattan",40.7649663715652,-73.9550870115797
+"141","Upper East Side-Carnegie Hill","Manhattan",40.7747292659036,-73.9611750741145
+"142","Upper East Side-Yorkville","Manhattan",40.7773235101283,-73.9486838218404
+"143","Morningside Heights","Manhattan",40.8094583940277,-73.9617644673712
+"144","Manhattanville-West Harlem","Manhattan",40.8180226256325,-73.9538222835653
+"145","Hamilton Heights-Sugar Hill","Manhattan",40.827019873808,-73.9484650878092
+"146","Harlem (South)","Manhattan",40.8043317756025,-73.9513004425372
+"147","Harlem (North)","Manhattan",40.8189268074189,-73.9409081877251
+"148","East Harlem (South)","Manhattan",40.7900098044104,-73.9457504088247
+"149","East Harlem (North)","Manhattan",40.8016121391061,-73.9374377574189
+"150","Randall's Island","Manhattan",40.7910010632849,-73.9245971902513
+"151","Washington Heights (South)","Manhattan",40.8409027541739,-73.9415361105145
+"152","Washington Heights (North)","Manhattan",40.8564728122821,-73.9334518272607
+"153","Inwood","Manhattan",40.8660465401551,-73.919324450452
+"154","Highbridge Park","Manhattan",40.8465973069056,-73.9302330109481
+"155","Inwood Hill Park","Manhattan",40.8723779629816,-73.9243426550333
+"156","Central Park","Manhattan",40.7824722048496,-73.9655604067454
+"157","Astoria (North)-Ditmars-Steinway","Queens",40.7774084152225,-73.9052566300188
+"158","Old Astoria-Hallets Point","Queens",40.7720880529847,-73.9314191005042
+"159","Astoria (Central)","Queens",40.7642838547686,-73.9230570758123
+"160","Astoria (East)-Woodside (North)","Queens",40.7595579592925,-73.9103125639918
+"161","Queensbridge-Ravenswood-Dutch Kills","Queens",40.758318452994,-73.9379323662248
+"162","Rikers Island","Bronx",40.7911303304426,-73.8826548873538
+"163","Sunnyside Yards (North)","Queens",40.7519141994108,-73.9199839371725
+"164","St. Michael's Cemetery","Queens",40.7639878088018,-73.8993993585041
+"165","Astoria Park","Queens",40.7785588083817,-73.9230797526304
+"166","Long Island City-Hunters Point","Queens",40.7453794812992,-73.9489086847405
+"167","Sunnyside","Queens",40.738417594931,-73.9264448674649
+"168","Woodside","Queens",40.7431042071231,-73.9014097871274
+"169","Sunnyside Yards (South)","Queens",40.7486656609992,-73.9281825018401
+"170","Calvary & Mount Zion Cemeteries","Queens",40.7342956521227,-73.9113750420972
+"171","Jackson Heights","Queens",40.7555185751838,-73.886344113209
+"172","East Elmhurst","Queens",40.7640750961607,-73.8722027095729
+"173","North Corona","Queens",40.7540526440209,-73.8628518619176
+"174","Elmhurst","Queens",40.739399345726,-73.879111346499
+"175","Corona","Queens",40.7432407987523,-73.859284160578
+"176","Maspeth","Queens",40.7230618011358,-73.9051219510859
+"177","Ridgewood","Queens",40.7056729022039,-73.9036885969796
+"178","Glendale","Queens",40.7035375561113,-73.8757460385316
+"179","Middle Village","Queens",40.7192218329555,-73.8781270458189
+"180","Mount Olivet & All Faiths Cemeteries","Queens",40.7172411829896,-73.8939805996841
+"181","Middle Village Cemetery","Queens",40.7093241590168,-73.8834176635416
+"182","St. John Cemetery","Queens",40.7147540885363,-73.8666264028169
+"183","Highland Park-Cypress Hills Cemeteries (North)","Queens",40.6930944285616,-73.8854999099607
+"184","Rego Park","Queens",40.7262360703676,-73.8634196186154
+"185","Forest Hills","Queens",40.7214540032784,-73.8476773688687
+"186","College Point","Queens",40.7825995003772,-73.8398894296902
+"187","Whitestone-Beechhurst","Queens",40.7883790443315,-73.8108894180176
+"188","Bay Terrace-Clearview","Queens",40.7818611072022,-73.7875789622974
+"189","Murray Hill-Broadway Flushing","Queens",40.7688710278752,-73.8107687640273
+"190","East Flushing","Queens",40.7538032869375,-73.8080655009515
+"191","Queensboro Hill","Queens",40.743101181425,-73.8196834889369
+"192","Flushing-Willets Point","Queens",40.7602128573166,-73.8315835129146
+"193","Fort Totten","Queens",40.7916069097199,-73.7767125463415
+"194","Kissena Park","Queens",40.7453186162352,-73.804879823479
+"195","Kew Gardens Hills","Queens",40.7266445561501,-73.819792502223
+"196","Pomonok-Electchester-Hillcrest","Queens",40.727066978847,-73.8034212777519
+"197","Fresh Meadows-Utopia","Queens",40.7349257629273,-73.7862446184855
+"198","Jamaica Estates-Holliswood","Queens",40.7207321665181,-73.7776104802102
+"199","Jamaica Hills-Briarwood","Queens",40.7118866612498,-73.808855473678
+"200","Mount Hebron & Cedar Grove Cemeteries","Queens",40.7364053324092,-73.83135919865
+"201","Cunningham Park","Queens",40.7339443356381,-73.7688109156134
+"202","Kew Gardens","Queens",40.7080335533948,-73.8287557909498
+"203","Richmond Hill","Queens",40.6974768086754,-73.8327680498522
+"204","South Richmond Hill","Queens",40.6913286920682,-73.8248672939829
+"205","Ozone Park (North)","Queens",40.6845631393059,-73.8493676149795
+"206","Woodhaven","Queens",40.6914753347996,-73.8574122984964
+"207","South Ozone Park","Queens",40.6761987865897,-73.81951941674
+"208","Ozone Park","Queens",40.6755706167305,-73.8470138202695
+"209","Howard Beach-Lindenwood","Queens",40.6600362305613,-73.8440419752467
+"210","Spring Creek Park","Queens",40.6498242368985,-73.8486948439903
+"211","Auburndale","Queens",40.7552556964632,-73.7860044109897
+"212","Bayside","Queens",40.7617609632819,-73.7675965970179
+"213","Douglaston-Little Neck","Queens",40.7636883617432,-73.7368864927471
+"214","Oakland Gardens-Hollis Hills","Queens",40.7393055728599,-73.7545779777739
+"215","Alley Pond Park","Queens",40.7522154271948,-73.7455541824573
+"216","Jamaica","Queens",40.7040216502312,-73.7955824419616
+"217","South Jamaica","Queens",40.6943062745655,-73.7917316525485
+"218","Baisley Park","Queens",40.679532972367,-73.7899095687877
+"219","Springfield Gardens (North)-Rochdale Village","Queens",40.6733306290253,-73.7720529113574
+"220","St. Albans","Queens",40.693238415116,-73.7622212186597
+"221","Hollis","Queens",40.7118647143945,-73.7621127138139
+"222","Glen Oaks-Floral Park-New Hyde Park","Queens",40.7459505987738,-73.7109611921767
+"223","Bellerose","Queens",40.7354920441264,-73.7266915763152
+"224","Queens Village","Queens",40.7160822677866,-73.7417543078076
+"225","Cambria Heights","Queens",40.6943417325243,-73.7355528139131
+"226","Laurelton","Queens",40.6759131826207,-73.7445051808698
+"227","Springfield Gardens (South)-Brookville","Queens",40.6601670381536,-73.7614796744272
+"228","Rosedale","Queens",40.6590486716717,-73.73566064225
+"229","Montefiore Cemetery","Queens",40.6858042181046,-73.7420448897129
+"230","Far Rockaway-Bayswater","Queens",40.6016978889476,-73.7565525860955
+"231","Rockaway Beach-Arverne-Edgemere","Queens",40.5915681301478,-73.7963079237021
+"232","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel","Queens",40.578183662244,-73.860555957281
+"233","Rockaway Community Park","Queens",40.6033775205169,-73.7805217485517
+"234","LaGuardia Airport","Queens",40.7744073327429,-73.8732550657714
+"235","Flushing Meadows-Corona Park","Queens",40.7405452271051,-73.8407699663331
+"236","Forest Park","Queens",40.7020761130444,-73.8534613068468
+"237","John F. Kennedy International Airport","Queens",40.646974283141,-73.7865658743563
+"238","Jamaica Bay (East)","Queens",40.6169136321635,-73.8138148853751
+"239","Jacob Riis Park-Fort Tilden-Breezy Point Tip","Queens",40.5585831132415,-73.9041267746952
+"240","St. George-New Brighton","Staten Island",40.642185774835,-74.0855331672949
+"241","Tompkinsville-Stapleton-Clifton-Fox Hills","Staten Island",40.6261036795298,-74.0788361762824
+"242","Rosebank-Shore Acres-Park Hill","Staten Island",40.6116856124166,-74.0727690832413
+"243","West New Brighton-Silver Lake-Grymes Hill","Staten Island",40.6280657093345,-74.1013039347588
+"244","Westerleigh-Castleton Corners","Staten Island",40.6170008045577,-74.1287964787644
+"245","Port Richmond","Staten Island",40.6338334278201,-74.1331774824803
+"246","Mariner's Harbor-Arlington-Graniteville","Staten Island",40.6313322473796,-74.1673658355876
+"247","Snug Harbor","Staten Island",40.6425943520003,-74.1032718730263
+"248","Grasmere-Arrochar-South Beach-Dongan Hills","Staten Island",40.5935395931219,-74.0812736593188
+"249","New Dorp-Midland Beach","Staten Island",40.5743145808625,-74.1015870943763
+"250","Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights","Staten Island",40.5896535072979,-74.1282707990697
+"251","New Springville-Willowbrook-Bulls Head-Travis","Staten Island",40.6037232015601,-74.1754512611261
+"252","Freshkills Park (North)","Staten Island",40.5828500158073,-74.1785410697201
+"253","Oakwood-Richmondtown","Staten Island",40.561998139437,-74.1225899187635
+"254","Great Kills-Eltingville","Staten Island",40.5502530947301,-74.1549723406468
+"255","Arden Heights-Rossville","Staten Island",40.5526417847042,-74.1969035636583
+"256","Annadale-Huguenot-Prince's Bay-Woodrow","Staten Island",40.5283913786717,-74.1980430601416
+"257","Tottenville-Charleston","Staten Island",40.5246451868324,-74.2354841138258
+"258","Freshkills Park (South)","Staten Island",40.5680747625062,-74.1976011662586
+"259","Fort Wadsworth","Staten Island",40.6015174713685,-74.0585332067836
+"260","Hoffman & Swinburne Islands","Staten Island",40.5762397406706,-74.053140617737
+"261","Miller Field","Staten Island",40.5687317486223,-74.0973046125391
+"262","Great Kills Park","Staten Island",40.545778342056,-74.1283445343589
